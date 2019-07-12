@@ -10,6 +10,6 @@ while True:
     #Add
     os.system('git add .')
     os.system('git commit -m "1"')
-    os.system('git push origin master')
+    #os.system('git push origin master')
     i=i+1
     print(str(i)+':commits')
