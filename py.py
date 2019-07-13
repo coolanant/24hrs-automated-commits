@@ -12,6 +12,5 @@ while True:
     os.system('git commit -m "1"')
     if(i%1000 ==0):
        os.system('git push origin master')
-    
     i=i+1
     print(str(i)+':commits')
