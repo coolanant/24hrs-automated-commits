@@ -8,7 +8,7 @@ In every 2 hours, the commits will automatically be increased by 1000.
 
 # Directly Use
 
-:npm:
+:fire:
 https://www.npmjs.com/package/git-unlimited-commit
 
 # See code
