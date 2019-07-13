@@ -2,7 +2,7 @@
 
 In every 2 hours, the commits will automatically be increased by 1000.
 
-**\_See my work. Give\_\_** **⭐️ 👏**
+**_See my work. Give_** **⭐️ 👏**
 
 ![alt text](commits.PNG)
 
