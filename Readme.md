@@ -1,4 +1,6 @@
-# 1LAKH Commits !!!! :shocked:
+# 1LAKH Commits !!!!
+
+:shock:
 
 # So, I did 24K commits in Github within 24 hrs by running an automated program.
 
